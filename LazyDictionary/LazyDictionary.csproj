@@ -12,6 +12,7 @@
     <PackageId>phirSOFT.LazyDictionary</PackageId>
      <PackageTags>Dictionary, Lazy pattern</PackageTags>
      <PackageReleaseNotes>* Added WeakLazyDictionary</PackageReleaseNotes>
+     <LangVersion>7.3</LangVersion>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
